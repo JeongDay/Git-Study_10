@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class DevScript : MonoBehaviour
 {
-    private int number = 10;
+    private int number = 30;
 }
